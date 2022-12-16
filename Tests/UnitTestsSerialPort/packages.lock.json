@@ -10,33 +10,33 @@
       },
       "nanoFramework.Hardware.Esp32": {
         "type": "Direct",
-        "requested": "[1.4.1, 1.4.1]",
-        "resolved": "1.4.1",
-        "contentHash": "BXN0cwb0s3MIUmtrstHZxFJTuux+V6p7pq22dpwTeFlzJ4gGIS5t0LURHTNner0u8Twag0bhGuCknK7N9U5keQ=="
+        "requested": "[1.4.8, 1.4.8]",
+        "resolved": "1.4.8",
+        "contentHash": "bWQBIEWTKyqlJCJCe+Os5jEPBHcGQZGL8tpzD6d69dJRvrQksIMHsIgC73ng/aUgUFwBDI3EVPPiEx80TAsnBw=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
-        "requested": "[1.10.0, 1.10.0]",
-        "resolved": "1.10.0",
-        "contentHash": "ZRDjzVoTdc6+3sUNk9vORz4HHonYYGM4ED2V8VcfkYC8xQ8VFoaP8U6mXLd70ocmyhGaP9GK86sxHUQykSK7vA=="
+        "requested": "[1.11.1, 1.11.1]",
+        "resolved": "1.11.1",
+        "contentHash": "hHRPhNagq1T0oN9QJfPOqreuWUV42DJamT0f7GrPQvrOYcr9ne4YTZq8MIpudvKtSALs50iYqxJ+raOF2CiNsA=="
       },
       "nanoFramework.System.IO.Streams": {
         "type": "Direct",
-        "requested": "[1.1.15, 1.1.15]",
-        "resolved": "1.1.15",
-        "contentHash": "eb7Zz3G301mgRo13n609wZvyaXZ/C9unPYn5Vz34OAEdGX1RDJufpcW+2v28ux3goj8x2BXuj717d4VVVJUotA=="
+        "requested": "[1.1.27, 1.1.27]",
+        "resolved": "1.1.27",
+        "contentHash": "9ho/C/ZIQrBw51UnzLVbSc//kE1mDcgykGEZH8p+A5Q4R7JMVwdEKlNQXWr1VHEkGbv2wbyos6nRLqu2rdjpwA=="
       },
       "nanoFramework.System.Text": {
         "type": "Direct",
-        "requested": "[1.2.7, 1.2.7]",
-        "resolved": "1.2.7",
-        "contentHash": "ax4CrqYHNXoEBjaIW7dIv1CM4PxWcCc6lN2xSzGLZf7F/JZ0O7t0el86PPN2P/DfOyyBKSDAmrZjEx4q8mvgSw=="
+        "requested": "[1.2.22, 1.2.22]",
+        "resolved": "1.2.22",
+        "contentHash": "vLvU0II3oJfajQ8MgNm8aCkaQ2JhjznzruwksOorbMJf86zLRbA5NUeg9X/KjbAE5pIalitUOqtNLKorYTbYGg=="
       },
       "nanoFramework.TestFramework": {
         "type": "Direct",
-        "requested": "[2.0.43, 2.0.43]",
-        "resolved": "2.0.43",
-        "contentHash": "HNsLJa/ZMK41A+86siZJUelZTeYWKdFm4M8tpcvtmyU52FSvBsciVJchgtgmM7XXe6A8YhT71PU1ZIV03EVmEQ=="
+        "requested": "[2.1.52, 2.1.52]",
+        "resolved": "2.1.52",
+        "contentHash": "JRBZfxq02tZDuVNViV9cD6iOR+mRcQsGvVpP9a85Ox9ZIhpvFohEoirqPenCF38V5MGsr9Cli3zecMTfSnrLgQ=="
       }
     }
   }
